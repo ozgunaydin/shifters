@@ -57,6 +57,7 @@
      <Compile Include="Assets\_Complete-Game\Scripts\SoundManager.cs" />
      <Compile Include="Assets\_Complete-Game\Scripts\Wall.cs" />
      <None Include="Assets\TutorialInfo\Fonts\LICENSE.txt" />
+     <None Include="Assets\Fonts\readme.txt" />
      <None Include="Assets\Fonts\OFL.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
